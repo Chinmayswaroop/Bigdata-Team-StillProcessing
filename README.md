@@ -1,6 +1,6 @@
 # What it is ?
 Worked on high performance distributed computing for Big Data using Hadoop Framework 
-A web application to analyze YouTube data which automates setting up Hadoop Clusters via Manual method ( by Setting up of Ip addresses by the users ) and on demand method ( Completely automated by Dockers-users has to just specify the ).
+A web application to analyze YouTube data which automates setting up Hadoop Clusters via Manual method (by setting up of Ip addresses by the users ) and on demand method ( Completely automated by Dockers-users has to just specify the ).
 
 Technologies:
 1)Built from scratch on RHEL 7.3
@@ -20,7 +20,7 @@ Other Technologies used are Ansible (DevOps) : for configuring the docker cluste
 2) Replication factor of the data.
 and the required cluster is setup on dockers.
 
-# *Prerequisites*
+# Prerequisites
 1. Redhat Linux with Jq(for json), ansible, Hadoop and JDk installed .
 2. A VG with name 'myvg' of atleast 2Gb in size.
 3. Docker setup and latest image of centos:latest can be pulled from "DockerHub"
